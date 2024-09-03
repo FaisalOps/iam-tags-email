@@ -1,4 +1,4 @@
-# iam-tags-email
+# IAM Tags Email Linking
 
 ## The defaut tags at the top will show provided the resources are created with this code
 
@@ -7,4 +7,4 @@
 ## The policy can be attached which restricts the users to put in the email when creating any resource.
 
 ## Probably need to use another service like cloud trail to get the users details including tags as not found the
-way of getting this information by terrfaorm.
+## way of getting this information by terraform.
