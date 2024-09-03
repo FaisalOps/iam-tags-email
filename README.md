@@ -1,6 +1,6 @@
 # IAM Tags Email Linking
 
-## The defaut tags at the top will show provided the resources are created with this code
+## The defaut tags at the top of main.tf file , will show provided the resources are created with this code
 
 ## The users can be created and tags of emails added
 
